@@ -1,4 +1,4 @@
-// Online C++ compiler to run C++ program online
+// Binary Search (find position of an element(target).
 #include <iostream>
 using namespace std;
 
